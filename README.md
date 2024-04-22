@@ -16,4 +16,4 @@ Basta abrir o arquivo `index.html` em qualquer navegador web para utilizar a lis
 
 ## Pré-requisitos
 
-Nenhum pré-requisito específico é necessário para utilizar este aplicativo. Basta abrir o arquivo HTML em um navegador web.
+Nenhum pré-requisito específico é necessário para utilizar este aplicativo. Basta abrir o arquivo HTML em um navegador web, ou você pode acessar por [aqui](kaliniv.github.io/lista-de-tarefas/).
